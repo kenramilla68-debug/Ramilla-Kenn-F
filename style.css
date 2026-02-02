@@ -139,7 +139,7 @@ img {
 }
 
 .product .prod_info {
-    height: 80%;
+    height: 100%;
 }
 
 .product img {
@@ -627,3 +627,4 @@ footer {
         align-content: center;
     }
 }
+

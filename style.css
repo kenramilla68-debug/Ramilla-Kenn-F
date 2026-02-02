@@ -237,7 +237,7 @@ footer {
     }
 
     .products img {
-        width: 30%;
+        width: 40%;
     }
 
     .content {
@@ -621,4 +621,5 @@ footer {
         padding: 10px;
         align-content: center;
     }
+
 }

@@ -237,8 +237,12 @@ footer {
     }
 
     .products img {
-         width: 60%;
+        width: 60%;
         height: auto;
+    }
+
+    .prod_info {
+        
     }
 
     .content {
@@ -622,7 +626,4 @@ footer {
         padding: 10px;
         align-content: center;
     }
-
 }
-
-

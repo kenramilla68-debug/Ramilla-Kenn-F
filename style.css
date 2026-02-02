@@ -242,7 +242,7 @@ footer {
     }
 
     .prod_info {
-        
+        height: auto;
     }
 
     .content {
@@ -627,4 +627,5 @@ footer {
         align-content: center;
     }
 }
+
 
